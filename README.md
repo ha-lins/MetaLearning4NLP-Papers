@@ -1,6 +1,12 @@
 # Meta learning for NLP - Papers
 A list of recent papers about Meta / few-shot learning methods applied in NLP areas.
 
+## Call for Contributions
+Contributions are welcomed, you are encouraged to:
+- Directly pull request
+- Send me new dataset info
+- Send me new experiment results from published paper.
+
 ## Taxonomy in Applications
 
 ### Fundamental NLP Tasks

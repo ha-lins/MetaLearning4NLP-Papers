@@ -31,9 +31,11 @@ Contributions are welcomed, you are encouraged to:
 
 1. **Few-shot Text Classification with Distributional Signatures.** *Yujia Bao, Menghua Wu, Shiyu Chang and Regina Barzilay.* ***ICLR 2020***. [[pdf](https://arxiv.org/abs/1908.06039)] [[code](https://github.com/YujiaBao/Distributional-Signatures)]
 
-2. **Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification.** *Jiawei Wu, Wenhan Xiong, William Yang Wang.* ***EMNLP 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
+2. **Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Xiaodan Zhu, Ping Jian, Jian Sun.* ***EMNLP 2019***. [[pdf](https://arxiv.org/pdf/1902.10482.pdf)] 
 
-3. **Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision.** *Abiola Obamuyide, Andreas Vlachos.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1589/)] 
+3. **Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification.** *Jiawei Wu, Wenhan Xiong, William Yang Wang.* ***EMNLP 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
+
+4. **Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision.** *Abiola Obamuyide, Andreas Vlachos.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1589/)] 
 
 
 ### Knowledge Graph

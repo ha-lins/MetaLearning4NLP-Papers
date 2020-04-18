@@ -3,9 +3,9 @@ A list of recent papers about Meta / few-shot learning methods applied in NLP ar
 
 ## Call for Contributions
 Contributions are welcomed, you are encouraged to:
+- Open an issue and send me the paper info
 - Directly pull request
-- Send me new dataset info
-- Send me new experiment results from published paper.
+
 
 ## Taxonomy in Applications
 

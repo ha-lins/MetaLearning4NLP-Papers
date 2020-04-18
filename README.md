@@ -16,6 +16,9 @@ Contributions are welcomed, you are encouraged to:
 
 2. **Natural Language to Structured Query Generation via Meta-Learning.** *Po-Sen Huang, Chenglong Wang, Rishabh Singh, Wen-tau Yih, Xiaodong He.* ***NAACL 2018[short]***. [[pdf](https://www.aclweb.org/anthology/N18-2115/)] [[code](https://github.com/microsoft/PointerSQL)]
 
+3. **Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning.** *Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang.* ***AAAI 2020***. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SunY.6672.pdf)]
+
+
 * ### Named Entity Recognition
 1. **Enhanced Meta-Learning for Cross-lingual Named Entity Recognition with Minimal Resources.** *Qianhui Wu, Zijia Lin, Guoxin Wang, Hui Chen, Börje F. Karlsson, Biqing Huang, Chin-Yew Lin.* ***AAAI 2020.***. [[pdf](https://www.aclweb.org/anthology/N18-2115/)]
 

@@ -24,7 +24,7 @@ Contributions are welcomed, you are encouraged to:
 
 ### Dialog System
 
-1. **Domain Adaptive Dialog Generation via Meta Learning.** *Kun Qian, Zhou Yu.* ***ACL 2019***. [[pdf](https://arxiv.org/abs/1911.06161)] [[code](https://github.com/qbetterk/DAML)]
+1. **Domain Adaptive Dialog Generation via Meta Learning.** *Kun Qian, Zhou Yu.* ***ACL 2019***. [[pdf](https://www.aclweb.org/anthology/P19-1253/)] [[code](https://github.com/qbetterk/DAML)]
 
 2. **Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems.** *Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings.* ***IJCAI 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
 
@@ -36,7 +36,7 @@ Contributions are welcomed, you are encouraged to:
 
 2. **Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Xiaodan Zhu, Ping Jian, Jian Sun.* ***EMNLP 2019***. [[pdf](https://arxiv.org/pdf/1902.10482.pdf)] 
 
-3. **Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification.** *Jiawei Wu, Wenhan Xiong, William Yang Wang.* ***EMNLP 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
+3. **Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification.** *Jiawei Wu, Wenhan Xiong, William Yang Wang.* ***EMNLP 2019***. [[pdf](https://www.aclweb.org/anthology/D19-1444.pdf)] 
 
 4. **Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision.** *Abiola Obamuyide, Andreas Vlachos.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1589/)] 
 
@@ -45,9 +45,9 @@ Contributions are welcomed, you are encouraged to:
 
 1. **Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs.** *Mingyang Chen, Wen Zhang, Wei Zhang, Qiang Chen, Huajun Chen.* ***EMNLP 2019***. [[pdf](https://www.aclweb.org/anthology/D19-1431.pdf)] [[code](https://github.com/AnselCmy/MetaR)]
 
-2. **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection.** *Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen.* ***WSDM 2020***. [[pdf](https://arxiv.org/abs/1905.05644)]
+2. **Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection.** *Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen.* ***WSDM 2020***. [[pdf](https://arxiv.org/pdf/1910.11621.pdf)]
 
-3. **Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations.** *Xin Lv, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu.* ***EMNLP 2019[short]***. [[pdf](https://github.com/THU-KEG/MetaKGR)]
+3. **Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations.** *Xin Lv, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu.* ***EMNLP 2019[short]***. [[pdf](https://arxiv.org/pdf/1908.11513.pdf)][[code](https://github.com/THU-KEG/MetaKGR)]
 
 ### Text Emotion Distribution Learning
 

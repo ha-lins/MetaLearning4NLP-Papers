@@ -62,3 +62,6 @@ Contributions are welcomed, you are encouraged to:
 ### Pre-training Text Representations
 1. **Pre-training Text Representations as Meta Learning.** *Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu.* ***ACL 2020[short]***. [[pdf](https://arxiv.org/pdf/2004.05568)]
 
+### Speech Recognition
+1. **Meta-Transfer Learning for Code-Switched Speech Recognition.** *Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, Zihan Liu, Peng Xu, Pascale Fung.* ***ACL 2020[Long]***. [[pdf](https://arxiv.org/pdf/2004.14228.pdf)]
+

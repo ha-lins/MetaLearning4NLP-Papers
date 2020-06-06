@@ -32,7 +32,7 @@ Contributions are welcomed, you are encouraged to:
 4. **Personalizing Dialogue Agents via Meta-Learning.** *Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1542.pdf)] [[code](https://github.com/HLTCHKUST/PAML)]
 
 ### Classification
-1.**Dynamic Memory Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu.* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/2005.05727.pdf)]
+1. **Dynamic Memory Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu.* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/2005.05727.pdf)]
 
 2. **Few-shot Text Classification with Distributional Signatures.** *Yujia Bao, Menghua Wu, Shiyu Chang and Regina Barzilay.* ***ICLR 2020***. [[pdf](https://arxiv.org/abs/1908.06039)] [[code](https://github.com/YujiaBao/Distributional-Signatures)]
 

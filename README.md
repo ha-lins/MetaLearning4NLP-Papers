@@ -23,12 +23,13 @@ Contributions are welcomed, you are encouraged to:
 1. **Enhanced Meta-Learning for Cross-lingual Named Entity Recognition with Minimal Resources.** *Qianhui Wu, Zijia Lin, Guoxin Wang, Hui Chen, Börje F. Karlsson, Biqing Huang, Chin-Yew Lin.* ***AAAI 2020***. [[pdf](https://arxiv.org/pdf/1911.06161.pdf)]
 
 ### Dialog System
+1. **Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks.** *Yiping Song, Zequn Liu, Wei Bi, Rui Yan, Ming Zhang* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/1910.14326.pdf)]
 
-1. **Domain Adaptive Dialog Generation via Meta Learning.** *Kun Qian, Zhou Yu.* ***ACL 2019***. [[pdf](https://www.aclweb.org/anthology/P19-1253/)] [[code](https://github.com/qbetterk/DAML)]
+2. **Domain Adaptive Dialog Generation via Meta Learning.** *Kun Qian, Zhou Yu.* ***ACL 2019***. [[pdf](https://www.aclweb.org/anthology/P19-1253/)] [[code](https://github.com/qbetterk/DAML)]
 
-2. **Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems.** *Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings.* ***IJCAI 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
+3. **Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems.** *Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings.* ***IJCAI 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
 
-3. **Personalizing Dialogue Agents via Meta-Learning.** *Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1542.pdf)] [[code](https://github.com/HLTCHKUST/PAML)]
+4. **Personalizing Dialogue Agents via Meta-Learning.** *Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1542.pdf)] [[code](https://github.com/HLTCHKUST/PAML)]
 
 ### Classification
 

@@ -60,6 +60,7 @@ Contributions are welcomed, you are encouraged to:
 
 ### NLU
 1. **Investigating Meta-Learning Algorithms for Low-Resource NLU tasks.** *Zi-Yi Dou, Keyi Yu, Antonios Anastasopoulos.* ***EMNLP 2019[short]***. [[pdf](https://www.aclweb.org/anthology/D19-1112.pdf)]
+2. **Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network.** *Yutai Hou, Wanxiang Che, Yongkui Lai, Zhihan Zhou, Yijia Liu, Han Liu, Ting Liu.* ***ACL 2020***. [[pdf](https://arxiv.org/abs/2006.05702)]
 
 ### Pre-training Text Representations
 1. **Pre-training Text Representations as Meta Learning.** *Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu.* ***ACL 2020[short]***. [[pdf](https://arxiv.org/pdf/2004.05568)]

@@ -18,18 +18,22 @@ Contributions are welcomed, you are encouraged to:
 
 3. **Neural Semantic Parsing in Low-Resource Settings with Back-Translation and Meta-Learning.** *Yibo Sun, Duyu Tang, Nan Duan, Yeyun Gong, Xiaocheng Feng, Bing Qin, Daxin Jiang.* ***AAAI 2020***. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SunY.6672.pdf)]
 
+4. **Hypernymy Detection for Low-Resource Languages via Meta Learning.** *Changlong Yu, Jialong Han, Haisong Zhang, Wilfred Ng.* ***ACL 2020***. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.336.pdf)] [[code](https://github.com/ccclyu/metaHypernymy)]
+
 
 * ### Named Entity Recognition
 1. **Enhanced Meta-Learning for Cross-lingual Named Entity Recognition with Minimal Resources.** *Qianhui Wu, Zijia Lin, Guoxin Wang, Hui Chen, Börje F. Karlsson, Biqing Huang, Chin-Yew Lin.* ***AAAI 2020***. [[pdf](https://arxiv.org/pdf/1911.06161.pdf)]
 
 ### Dialog System
-1. **Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks.** *Yiping Song, Zequn Liu, Wei Bi, Rui Yan, Ming Zhang* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/1910.14326.pdf)]
+1. **Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks.** *Yiping Song, Zequn Liu, Wei Bi, Rui Yan, Ming Zhang* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/1910.14326.pdf)][[code](https://github.com/zequnl/CMAML)]
 
-2. **Domain Adaptive Dialog Generation via Meta Learning.** *Kun Qian, Zhou Yu.* ***ACL 2019***. [[pdf](https://www.aclweb.org/anthology/P19-1253/)] [[code](https://github.com/qbetterk/DAML)]
+2. **Meta-Reinforced Multi-Domain State Generator for Dialogue Systems.** *Yi Huang, Junlan Feng, Min Hu, Xiaoting Wu, Xiaoyu Du, Shuo Ma* ***ACL 2020***. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.636.pdf)]
 
-3. **Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems.** *Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings.* ***IJCAI 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
+3. **Domain Adaptive Dialog Generation via Meta Learning.** *Kun Qian, Zhou Yu.* ***ACL 2019***. [[pdf](https://www.aclweb.org/anthology/P19-1253/)] [[code](https://github.com/qbetterk/DAML)]
 
-4. **Personalizing Dialogue Agents via Meta-Learning.** *Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1542.pdf)] [[code](https://github.com/HLTCHKUST/PAML)]
+4. **Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems.** *Fei Mi, Minlie Huang, Jiyong Zhang, Boi Faltings.* ***IJCAI 2019***. [[pdf](https://arxiv.org/abs/1905.05644)] 
+
+5. **Personalizing Dialogue Agents via Meta-Learning.** *Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1542.pdf)] [[code](https://github.com/HLTCHKUST/PAML)]
 
 ### Classification
 1. **Dynamic Memory Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu.* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/2005.05727.pdf)]
@@ -67,4 +71,7 @@ Contributions are welcomed, you are encouraged to:
 
 ### Speech Recognition
 1. **Meta-Transfer Learning for Code-Switched Speech Recognition.** *Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, Zihan Liu, Peng Xu, Pascale Fung.* ***ACL 2020[Long]***. [[pdf](https://arxiv.org/pdf/2004.14228.pdf)][[code](https://github.com/audioku/meta-transfer-learning)]
+
+### Question Answer
+1. **Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering.** *Ming Yan, Hao Zhang, Di Jin, Joey Tianyi Zhou.* ***ACL 2020[Long]***. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.654.pdf)]
 

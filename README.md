@@ -74,7 +74,7 @@ Contributions are welcomed, you are encouraged to:
 ### Speech Recognition
 1. **Meta-Transfer Learning for Code-Switched Speech Recognition.** *Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, Zihan Liu, Peng Xu, Pascale Fung.* ***ACL 2020[Long]***. [[pdf](https://arxiv.org/pdf/2004.14228.pdf)][[code](https://github.com/audioku/meta-transfer-learning)]
 
-2. **Meta Learning for End-to-End Low-Resource Speech Recognition.** *Jui-Yang Hsu, Yuan-Jui Chen, Hung-yi Lee.* ***ICASSAP 2020***. [[pdf](https://arxiv.org/pdf/1910.12094.pdf)]
+2. **Meta Learning for End-to-End Low-Resource Speech Recognition.** *Jui-Yang Hsu, Yuan-Jui Chen, Hung-yi Lee.* ***ICASSP 2020***. [[pdf](https://arxiv.org/pdf/1910.12094.pdf)]
 
 
 ### Question Answer

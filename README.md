@@ -37,6 +37,8 @@ Contributions are welcomed, you are encouraged to:
 
 6. **Personalizing Dialogue Agents via Meta-Learning.** *Zhaojiang Lin, Andrea Madotto, Chien-Sheng Wu, Pascale Fung.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1542.pdf)] [[code](https://github.com/HLTCHKUST/PAML)]
 
+7. **Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning.** *Yifan Gao, Piji Li, Wei Bi, Xiaojiang Liu, Michael R. Lyu, Irwin King.* ***EMNLP 2020[fingdings]***. [[pdf](https://arxiv.org/pdf/2010.01495.pdf)]
+
 ### Classification
 1. **Dynamic Memory Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu.* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/2005.05727.pdf)]
 
@@ -47,6 +49,8 @@ Contributions are welcomed, you are encouraged to:
 4. **Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification.** *Jiawei Wu, Wenhan Xiong, William Yang Wang.* ***EMNLP 2019***. [[pdf](https://www.aclweb.org/anthology/D19-1444.pdf)] 
 
 5. **Model-Agnostic Meta-Learning for Relation Classification with Limited Supervision.** *Abiola Obamuyide, Andreas Vlachos.* ***ACL 2019[short]***. [[pdf](https://www.aclweb.org/anthology/P19-1589/)] 
+
+6. **Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks.** *Trapit Bansal, Rishikesh Jha, Tsendsuren Munkhdalai, Andrew McCallum.* ***EMNLP 2020***. [[pdf](https://arxiv.org/pdf/2009.08445.pdf)]
 
 
 ### Knowledge Graph
@@ -66,10 +70,14 @@ Contributions are welcomed, you are encouraged to:
 
 ### NLU
 1. **Investigating Meta-Learning Algorithms for Low-Resource NLU tasks.** *Zi-Yi Dou, Keyi Yu, Antonios Anastasopoulos.* ***EMNLP 2019[short]***. [[pdf](https://www.aclweb.org/anthology/D19-1112.pdf)]
+
 2. **Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network.** *Yutai Hou, Wanxiang Che, Yongkui Lai, Zhihan Zhou, Yijia Liu, Han Liu, Ting Liu.* ***ACL 2020[long]***. [[pdf](https://arxiv.org/abs/2006.05702)][[code](https://github.com/AtmaHou/FewShotTagging)]
 
-### Pre-training Text Representations
+### Pre-trained language models
 1. **Pre-training Text Representations as Meta Learning.** *Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu.* ***ACL 2020[short]***. [[pdf](https://arxiv.org/pdf/2004.05568)]
+
+2. **Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining.** *Chengyu Wang, Minghui Qiu, Jun Huang, Xiaofeng He.* ***EMNLP 2020***. [[pdf](https://arxiv.org/pdf/2003.13003.pdf)]
+
 
 ### Speech Recognition
 1. **Meta-Transfer Learning for Code-Switched Speech Recognition.** *Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, Zihan Liu, Peng Xu, Pascale Fung.* ***ACL 2020[Long]***. [[pdf](https://arxiv.org/pdf/2004.14228.pdf)][[code](https://github.com/audioku/meta-transfer-learning)]
@@ -78,5 +86,12 @@ Contributions are welcomed, you are encouraged to:
 
 
 ### Question Answer
-1. **Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering.** *Ming Yan, Hao Zhang, Di Jin, Joey Tianyi Zhou.* ***ACL 2020[Long]***. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.654.pdf)]
+1. **Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering.** *Ming Yan, Hao Zhang, Di Jin, Joey Tianyi Zhou.* ***ACL 2020***. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.654.pdf)]
 
+### Cross-Lingual Transfer
+1. **Zero-Shot Cross-Lingual Transfer with Meta Learning.** *Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva, Isabelle Augenstein.* ***EMNLP 2020***. [[pdf](https://arxiv.org/pdf/2003.02739.pdf)][[code](https://github.com/copenlu/X-MAML)]
+
+2. **Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages.** *Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva, Isabelle Augenstein.* ***EMNLP 2020***. [[pdf](Coming soon)]
+
+3. **On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment.** *Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov.* ***EMNLP 2020***. [[pdf](https://arxiv.org/pdf/2010.03017.pdf)][[code](https://github.com/iedwardwangi/MetaAdapter)]
+ 

@@ -39,6 +39,8 @@ Contributions are welcomed, you are encouraged to:
 
 7. **Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning.** *Yifan Gao, Piji Li, Wei Bi, Xiaojiang Liu, Michael R. Lyu, Irwin King.* ***EMNLP 2020[fingdings]***. [[pdf](https://arxiv.org/pdf/2010.01495.pdf)]
 
+8. **Graph Evolving Meta-Learning for Low-resource Medical Dialogue Generation.** *Shuai Lin, Pan Zhou, Xiaodan Liang, Jianheng Tang, Ruihui Zhao, Ziliang Chen, Liang Lin.* ***AAAI 2021***. [[pdf](https://arxiv.org/abs/2012.11988.pdf)][[code](https://github.com/ha-lins/GEML-MDG)]
+
 ### Classification
 1. **Dynamic Memory Induction Networks for Few-Shot Text Classification.** *Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun, Xiaodan Zhu.* ***ACL 2020***. [[pdf](https://arxiv.org/pdf/2005.05727.pdf)]
 
@@ -84,6 +86,7 @@ Contributions are welcomed, you are encouraged to:
 
 2. **Meta Learning for End-to-End Low-Resource Speech Recognition.** *Jui-Yang Hsu, Yuan-Jui Chen, Hung-yi Lee.* ***ICASSP 2020***. [[pdf](https://arxiv.org/pdf/1910.12094.pdf)]
 
+3. **Adversarial Meta Sampling for Multilingual Low-Resource Speech Recognition.** *Xiao Yubei, Ke Gong, Pan Zhou, Guolin Zheng, Xiaodan Liang and Liang Lin.* ***AAAI 2021***. [[pdf](https://arxiv.org/pdf/2012.11896.pdf)][[code](https://github.com/iamxiaoyubei/AMS)]
 
 ### Question Answer
 1. **Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering.** *Ming Yan, Hao Zhang, Di Jin, Joey Tianyi Zhou.* ***ACL 2020***. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.654.pdf)]
